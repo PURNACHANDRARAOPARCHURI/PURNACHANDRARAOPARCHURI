@@ -74,6 +74,7 @@ I'm a passionate **AI/ML Developer** and **Data Science Enthusiast** currently e
 ## 📈 GitHub Statistics
 
 <div align="center">
+[![Purna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PURNACHANDRARAOPARCHURI&show_icons=true&theme=radical)](https://github.com/PURNACHANDRARAOPARCHURI)
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PURNACHANDRARAOPARCHURI&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-streak-stats)
 
